@@ -1,6 +1,6 @@
 package com.example;
 
-public class MuseoDeAntioquia implements EspacioCulturar {
+public class MuseoDeAntioquia implements EspacioCulturarl {
 
     @Override
     public void mostrarHorario() {

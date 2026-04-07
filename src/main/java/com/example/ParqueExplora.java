@@ -1,6 +1,6 @@
 package com.example;
 
-public class ParqueExplora implements EspacioCulturar {
+public class ParqueExplora implements EspacioCulturarl {
 
     @Override
     public void mostrarHorario() {
