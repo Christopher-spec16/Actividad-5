@@ -1,6 +1,6 @@
 package com.example;
 
-public interface  EspacioCulturarl {
+public interface  EspacioCultural {
     
     void mostrarHorario();
 
